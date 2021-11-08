@@ -1,0 +1,25 @@
+import { IRoute } from "@bluelibs/x-ui";
+import "./i18n";
+
+import {
+  DEPARTMENTS_LIST as BASE_DEPARTMENTS_LIST,
+  DEPARTMENTS_CREATE as BASE_DEPARTMENTS_CREATE,
+  DEPARTMENTS_EDIT as BASE_DEPARTMENTS_EDIT,
+  DEPARTMENTS_VIEW as BASE_DEPARTMENTS_VIEW,
+} from "./config/routes";
+
+export const DEPARTMENTS_LIST: IRoute = {
+  ...BASE_DEPARTMENTS_LIST,
+};
+
+export const DEPARTMENTS_CREATE: IRoute = {
+  ...BASE_DEPARTMENTS_CREATE,
+};
+
+export const DEPARTMENTS_EDIT: IRoute = {
+  ...BASE_DEPARTMENTS_EDIT,
+};
+
+export const DEPARTMENTS_VIEW: IRoute = {
+  ...BASE_DEPARTMENTS_VIEW,
+};

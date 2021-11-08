@@ -1,0 +1,34 @@
+{
+  "en": {
+    "management": {
+      "tasks": {
+        "fields": {
+          "_id": "ID",
+          "title": "Title",
+          "status": "Status",
+          "assigneeId": "Assignee Id",
+          "assignee": "Assignee"
+        },
+        "menu": {
+          "title": "Tasks"
+        },
+        "list": {
+          "header": "Tasks List",
+          "create_btn": "New Task"
+        },
+        "create": {
+          "header": "Create Task"
+        },
+        "edit": {
+          "header": "Edit Task"
+        },
+        "view": {
+          "header": "View Task"
+        },
+        "delete_confirmation": "You have deleted the Task",
+        "create_confirmation": "You successfully added a new Task",
+        "edit_confirmation": "You successfully edited the Task"
+      }
+    }
+  }
+}

@@ -1,0 +1,28 @@
+{
+  "en": {
+    "management": {
+      "departments": {
+        "fields": { "_id": "ID", "name": "Name", "members": "Members" },
+        "menu": {
+          "title": "Departments"
+        },
+        "list": {
+          "header": "Departments List",
+          "create_btn": "New Department"
+        },
+        "create": {
+          "header": "Create Department"
+        },
+        "edit": {
+          "header": "Edit Department"
+        },
+        "view": {
+          "header": "View Department"
+        },
+        "delete_confirmation": "You have deleted the Department",
+        "create_confirmation": "You successfully added a new Department",
+        "edit_confirmation": "You successfully edited the Department"
+      }
+    }
+  }
+}

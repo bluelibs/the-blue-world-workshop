@@ -1,0 +1,44 @@
+{
+  "en": {
+    "management": {
+      "starship_members": {
+        "fields": {
+          "_id": "ID",
+          "firstName": "First Name",
+          "lastName": "Last Name",
+          "fullName": "Full Name",
+          "isRecruit": "Is Recruit",
+          "yearOfBirth": "Year Of Birth",
+          "emergencyContact": "Emergency Contact",
+          "emergencyContact.name": "Emergency Contact — Name",
+          "emergencyContact.relation": "Emergency Contact — Relation",
+          "emergencyContact.phoneNumber": "Emergency Contact — Phone Number",
+          "children": "Children",
+          "children.name": "Children — Name",
+          "children.yearOfBirth": "Children — Year Of Birth",
+          "departmentId": "Department Id",
+          "department": "Department"
+        },
+        "menu": {
+          "title": "StarshipMembers"
+        },
+        "list": {
+          "header": "StarshipMembers List",
+          "create_btn": "New StarshipMember"
+        },
+        "create": {
+          "header": "Create StarshipMember"
+        },
+        "edit": {
+          "header": "Edit StarshipMember"
+        },
+        "view": {
+          "header": "View StarshipMember"
+        },
+        "delete_confirmation": "You have deleted the StarshipMember",
+        "create_confirmation": "You successfully added a new StarshipMember",
+        "edit_confirmation": "You successfully edited the StarshipMember"
+      }
+    }
+  }
+}
